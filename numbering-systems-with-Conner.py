@@ -13,7 +13,7 @@
 
 import sys 
 
-print("\nNumbering Systems with Python")
+print("\nNumbering Systems with Conner")
 numberOfArgs = len(sys.argv)
 print("Total arguments passed: " + str(numberOfArgs))
 
